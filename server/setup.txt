@@ -1,0 +1,2 @@
+[1] To import seed data into mongodb:
+$mongo localhost:27017/demodb schema.js

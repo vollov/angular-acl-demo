@@ -1,0 +1,10 @@
+,
+
+      'test/unit/services/sessionServiceSpec.js',
+      'test/unit/services/routeServiceSpec.js',
+      'test/unit/services/flashServiceSpec.js',
+      'test/unit/services/authenticationServiceSpec.js',
+      'test/unit/services/paginationServiceSpec.js',
+      'test/unit/services/pageServiceSpec.js',
+      
+      'test/unit/controllers/postCodeSpec.js'
