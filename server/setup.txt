@@ -1,2 +1,6 @@
 [1] To import seed data into mongodb:
 $mongo localhost:27017/demodb schema.js
+
+[2] Test setup
+"test": "mocha --ui bdd -R spec $(find test -name '*.js')"  unix
+"test": "mocha --ui bdd -R spec test/**/*.test.js"  win32
